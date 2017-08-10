@@ -3,5 +3,5 @@ module.exports = {
     FB_VERIFY_TOKEN: 'sjmadeher',
     API_AI_CLIENT_ACCESS_TOKEN: 'f927b8d2a93e4065bc70775e97fd0561',
     FB_APP_SECRET: 'b493df010de290f41403cd61b9d33f99',
-    SERVER_URL: "https://murmuring-sands-21142.herokuapp.com/",
+    SERVER_URL: "https://missaidev1.herokuapp.com/",
 };
